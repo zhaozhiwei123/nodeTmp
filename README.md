@@ -14,3 +14,5 @@
         - css
         - js
 
+4. 压缩命令如：yarn buildTmp
+
