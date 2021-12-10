@@ -8,7 +8,7 @@
 
 2. 在package.json配置命令 如："buildTmp" : "buildTmpService"
 
-3. 根目录设置模板文件：
+3. 根目录输出文件：
     - tmp
         - html
         - css
