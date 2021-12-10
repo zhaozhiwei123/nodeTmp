@@ -1,4 +1,4 @@
-利用node 打包压缩转换html,css,js
+利用node 打包压缩转换html,css,将es6转es5等
 
 1. 根目录设置模板文件：
     - template

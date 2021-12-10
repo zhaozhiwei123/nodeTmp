@@ -1,6 +1,6 @@
 {
   "name": "build-tmp",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "使用node压缩html,css,js以及转换es5",
   "main": "./lib/index.js",
   "scripts": {
@@ -10,7 +10,8 @@
     "html",
     "css",
     "js",
-    "node"
+    "node",
+    "es5"
   ],
   "author": "chris.zhao",
   "license": "ISC",
