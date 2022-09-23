@@ -14,12 +14,12 @@
     "es5"
   ],
   "author": {
-    "name":"chris.zhao",
-    "email":"zhaozhiwei3225@163.com"
+    "name": "chris.zhao",
+    "email": "zhaozhiwei3225@163.com"
   },
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/zhaozhiwei123/nodeTmp.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaozhiwei123/nodeTmp.git"
   },
   "license": "ISC",
   "files": [
