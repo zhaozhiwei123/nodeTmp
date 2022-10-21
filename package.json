@@ -1,11 +1,11 @@
 {
   "name": "build-tmp",
-  "version": "1.2.6",
+  "version": "1.2.9",
   "description": "使用node压缩html,css,js以及转换es5",
   "main": "./lib/index.js",
   "scripts": {
     "sass": "sass --watch ./template/style/scss:./template/style/css",
-    "build-tmp": "node ./lib/index.js"
+    "build-tmp": "build-tmp"
   },
   "keywords": [
     "html",
@@ -28,7 +28,7 @@
     "bin"
   ],
   "bin": {
-    "commandServiceTop": "./bin/index.js"
+    "build-tmp": "./bin/index.js"
   },
   "dependencies": {
     "@babel/core": "^7.16.0",
@@ -41,6 +41,6 @@
     "uglify-js": "^3.14.3"
   },
   "devDependencies": {
-    "build-tmp": "^1.1.7"
+    "build-tmp": "^1.2.9"
   }
 }
