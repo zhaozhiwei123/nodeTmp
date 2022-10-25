@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "scripts": {
     "sass": "sass --watch ./template/style/scss:./template/style/css",
-    "build-tmp": "build-tmp"
+    "build-tmp": "node ./lib/index"
   },
   "keywords": [
     "html",
